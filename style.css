@@ -1,0 +1,87 @@
+
+
+ul{
+    margin-top: 0px;
+}
+li {
+    float: left;
+    background-color: darkblue;
+    list-style: none;
+    height:30px;
+    width: 12.5%;
+    text-align: center;
+}
+nav{
+      float: left;
+    background-color: darkblue;
+    border: 1px solid black;
+    list-style: none;
+    height:2.5em;
+    width: 63.4%; 
+    margin-left: 17.8%;
+    transition-property: top;
+    transition-duration: 500ms;
+    top: 0;
+    display: block;
+    position: fixed;
+    
+}
+a{
+    line-height: 2.5em;
+    text-align: center;
+    font-size: 1.2em;
+    color: white;
+    text-decoration: none;
+}
+
+li:hover{
+    float: left;
+    background-color: black;
+    list-style: none;
+    height:2.5em;
+    width: 12.5%;
+    
+}
+h1{
+    text-align: center;
+ 
+    color: darkblue;
+    width: 30%;
+    margin: 0 auto;
+    
+}
+#miami{
+    margin: 0 auto;
+    width: 64%;
+}
+#info{
+    margin: 0 auto;
+    width: 64%;
+    background-color: darkblue;
+    color:white;
+}
+
+p{
+    margin-left: 5px;
+}
+
+h3{
+    margin-left: 5px;
+}
+
+body{
+    background-image: url(Miami-wallpaper-27.jpg);
+      background-attachment: fixed;
+}
+footer img {
+    width: 5%;
+    
+}
+footer{
+    width: 64%;
+    margin: 0 auto;
+    background-color: darkblue;
+}
+#m{
+    width: 100%;
+}
